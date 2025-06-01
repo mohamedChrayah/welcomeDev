@@ -1,0 +1,65 @@
+
+
+/* Fixed sidenav2, full height */
+.sidenav2 {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 9999;
+  top: 12.5%;
+  left: 0;
+  background-color: #2C3B41;
+  overflow-x: hidden;
+  padding-top: 10px;
+}
+
+/* Style the sidenav2 links and the dropdown button */
+.sidenav2 a, .dropdown-btn {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 14px;
+  color: #769197;
+  display: block;
+  border: none;
+  background: none;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  outline: none;
+}
+
+.dropdown-btn:focus {
+    outline: none;
+    background-color: #0808088c;
+}
+
+/* On mouse-over */
+.sidenav2 a:hover, .dropdown-btn:hover {
+  color: white;
+}
+
+/* Main content */
+.main {
+  margin-left: 200px; /* Same as the width of the sidenav2 */
+  font-size: 20px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+/* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+.dropdown-container {
+  display: none;
+  background-color: #0808088c;
+  padding-left: 8px;
+}
+
+/* Optional: Style the caret down icon */
+.fa-caret-down {
+  float: right;
+  padding-right: 8px;
+}
+
+/* Some media queries for responsiveness */
+@media screen and (max-height: 450px) {
+  .sidenav2 {padding-top: 15px;}
+  .sidenav2 a {font-size: 18px;}
+}

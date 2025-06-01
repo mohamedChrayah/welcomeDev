@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8e876ad-6b94-4238-95fd-7204e7bc7c01" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2xeUPGuo8asPM0qVV3aBsFQLht3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/moham/Downloads/WelcomeDev/WelcomeDev/UwAmp310/www/WelcomeDev",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14015.96" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8e876ad-6b94-4238-95fd-7204e7bc7c01" name="Changes" comment="" />
+      <created>1748298007365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748298007365</updated>
+      <workItem from="1748298008575" duration="2106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/LinkShiftingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/FreehandDrawingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/NonRealtimeDraggingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/DimensioningScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/NonRealtimeDraggingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/DataInspector.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/SnapLinkReshapingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/OrthogonalLinkReshapingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/GeometryReshapingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/DrawCommandHandlerScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/ScrollingTableScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/SpiralScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/ParallelRouteScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/LinkLabelDraggingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/HyperlinkScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/FishboneLayout.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/ColumnResizingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/RobotScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/RadialLayout.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/ParallelScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/PortShiftingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/TextEditor.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/GeometryReshapingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/BPMNScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/PolygonDrawingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/RoundedRectangles.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/LinkLabelOnPathDraggingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/SerpentineLayout.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/NodeLabelDraggingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/LinkShiftingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/SerpentineScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/Robot.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/RotateMultipleScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/LightBoxContextMenu.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/Arrowheads.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/ScrollingTable.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/CheckBoxesScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/DrawCommandHandler.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/TreeMapScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/Buttons.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/CurvedLinkReshapingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/DragCreatingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/SectorReshapingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/FloorPlanEditorScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/NodeLabelDraggingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/RealtimeDragSelectingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/DragCreatingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/LinkLabelDraggingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/FreehandDrawingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/DragZoomingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/SectorReshapingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/CurvedLinkReshapingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/ExtendedBrush.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/RadialScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/DataInspectorScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/ResizeMultipleTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/GuidedDraggingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/HyperlinkText.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/TextEditorSelectBox.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/PolygonDrawingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/PortShiftingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/BalloonLink.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/Templates.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/TreeMapLayout.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/DimensioningLink.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/FishboneScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/PolylineLinkingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/OrthogonalLinkReshapingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/PolylineLinkingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/ResizeMultipleScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/GuidedDraggingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/Figures.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/FloorPlanMonitorScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/TextEditorScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/SpiralLayout.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/RealtimeDragSelectingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/ColumnResizingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/ParallelLayout.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/TableScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/LocalStorageCommandHandlerScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/ParallelRouteLink.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/TableLayout.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/SnapLinkReshapingScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/BPMNClasses.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/LinkLabelOnPathDraggingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/DragZoomingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/RowResizingTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/TextEditorRadioButtons.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/BalloonLinkScript.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/RotateMultipleTool.js" />
+        <option value="$PROJECT_DIR$/Bibliotheques/Gojs-1.8/extensionsTS/LocalStorageCommandHandler.js" />
+      </list>
+    </option>
+  </component>
+</project>
